@@ -7,7 +7,7 @@ p{ font-family: arial;
 }
 
 .citaat { font-family:georgia;
-		  color: rgb(112,112,112);
+		  color: aqua;
 		  font-size:normal;
 	}
 
